@@ -1,3 +1,3 @@
 # TestingRepo
 
-Repository for testing GitHub.
+Repository for testing GitHub :smile:
